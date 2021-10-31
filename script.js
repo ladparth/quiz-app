@@ -1,34 +1,34 @@
 const quizData = [
     {
-        question: 'If soccer is called football in England, what is American football called in England?',
-        a:'American football',
-        b:'comball',
-        c:'Handball',
-        d:'Touchdown',
+        question: 'What year was the very first model of the iPhone released?',
+        a:'2006',
+        b:'2007',
+        c:'2008',
+        d:'2009',
+        answer: 'b'
+    },
+    {
+        question: 'What’s the shortcut for the “copy” function on most computers?',
+        a:'Ctrl + V',
+        b:'Ctrl + X',
+        c:'Ctrl + C',
+        d:'Ctrl + Z',
         answer: 'c'
     },
     {
-        question: 'What is the most used programming language?',
-        a:'JavaScript',
-        b:'Python',
-        c:'Java',
-        d:'C#',
-        answer: 'c'
-    },
-    {
-        question: 'Who is the best player in basketball history?',
-        a:'Jordon',
-        b:'Kobe',
-        c:'LeBrone',
-        d:'Shakil',
+        question: 'What is often seen as the smallest unit of memory?',
+        a:'kilobyte',
+        b:'byte',
+        c:'megabyte',
+        d:'terabyte',
         answer: 'a'
     },
     {
-        question: 'Who is the best player in football?',
-        a:'Messi',
-        b:'Ronaldo',
-        c:'Aguro',
-        d:'Salah',
+        question: 'What does “HTTP” stand for?',
+        a:'HyperText Transport Protocol',
+        b:'HyperText Transfer Protocol',
+        c:'HyperText Transfer Process',
+        d:'HyperText Transfers Protocols',
         answer: 'b'
     }
 ]
